@@ -45,9 +45,9 @@ EPOCH: 14 | Test Accuracy: 98.99%
 
 ### Model Results (Model_3)
 
-![Training Log for Model 3](https://drive.google.com/file/d/1QsUg-plz8ZN8t3FZDiMfTI9X-iOjSgGR/view?usp=sharing)
+![Training Log for Model 3](https://drive.google.com/uc?export=view&id=1QsUg-plz8ZN8t3FZDiMfTI9X-iOjSgGR)
 
 **Performance Graphs**
-![Performance Graphs for Model 3](https://drive.google.com/file/d/1a0t0otp-jivQI6_1twzfuMRFZenmBaOp/view?usp=sharing)
+![Performance Graphs for Model 3](https://drive.google.com/uc?export=view&id=1a0t0otp-jivQI6_1twzfuMRFZenmBaOp)
 
 
